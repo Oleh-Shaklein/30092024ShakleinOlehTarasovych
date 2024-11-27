@@ -1,19 +1,19 @@
-Деталі завдання
-Завдання: Реалізувати гру "Камінь-ножниці-папір" в конфігураційному форматі INI
+Task details
+Task: Implement the game "Rock-paper-scissors" in the INI configuration format
 
-Інформація про студента
-- **Студент:** Шаклеін Олег
-- **Номер варіанту: ** 24
+Student information
+- **Student:** Shaklein Oleg
+- **Option number: ** 24
 
-Технології та мови програмування
-- **Мова програмування:** Python (also javascript|CSS)
-- Використання WPF (Windows Presentation Foundation) або Console Application для реалізації графічного або консольного інтерфейсу.
-- Система збереження результатів з використанням файлів або бази даних для ведення статистики.
-- Основні алгоритми для перевірки переможців, обробки ходів та відображення ігрового процесу.
+Technologies and programming languages
+- **Programming language:** Python (also javascript|CSS)
+- Using WPF (Windows Presentation Foundation) or Console Application to implement a graphical or console interface.
+- A system for saving results using files or a database for maintaining statistics.
+- Basic algorithms for checking winners, processing moves, and displaying the gameplay.
 
-## Вимоги до апаратного та програмного забезпечення
-- **Операційна система:** Windows 10 / 11
-- **RAM:** мінімум 4 68
-- **Процесор:** Intel 13 або вище
-- **Програмне забезпечення: **
-- Visual Studio 2022 або новіша версія
+## Hardware and software requirements
+- **Operating system:** Windows 10 / 11
+- **RAM:** minimum 4 68
+- **Processor:** Intel 13 or higher
+- **Software: **
+- Visual Studio 2022 or newer
